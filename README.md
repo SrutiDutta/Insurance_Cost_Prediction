@@ -9,6 +9,6 @@ Objective: Can you accurately predict insurance costs?
 5. Build the Model to accurately predict the charges.
 6. Show proper model diagonistics for validations.
 
-### To view Jupyter Notebook click [here](url)
+### To view Jupyter Notebook click [here](https://github.com/SrutiDutta/Insurance_Cost_Prediction/blob/main/Regression%20assignment--Insurance%20costs%20prediction.ipynb)
 
 ### To view Viz on Tableau Public click [here](https://public.tableau.com/app/profile/sruti2331/viz/INSURANCECOSTANALYSISDASHBOARD/Dashboard1?publish=yes)
